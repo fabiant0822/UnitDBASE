@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/09/07 13:28:41.000.901,=C:\Users\ftamas\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/09/19 08:53:27.000.185,=C:\Users\ftamas\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/09/19 09:03:15.000.935,C:\Users\ftamas\Documents\001\Delphi\Dbase3\dbUnit3.pas=C:\Users\ftamas\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/09/19 09:03:15.000.935,C:\Users\ftamas\Documents\001\Delphi\Dbase3\dbUnit3.dfm=C:\Users\ftamas\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2018/09/19 09:03:23.000.503,C:\Users\ftamas\Documents\001\Delphi\Dbase3\dbase3.dproj=C:\Users\ftamas\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2018/09/19 09:14:22.000.965,C:\Users\ftamas\Documents\001\Delphi\Dbase3\dbUnit3.dfm=C:\Users\ftamas\Documents\001\Delphi\Dbase4\dbUnit4.dfm</Transaction>
+    <Transaction>2018/09/19 09:14:22.000.965,C:\Users\ftamas\Documents\001\Delphi\Dbase3\dbUnit3.pas=C:\Users\ftamas\Documents\001\Delphi\Dbase4\dbUnit4.pas</Transaction>
+    <Transaction>2018/09/19 09:14:33.000.135,C:\Users\ftamas\Documents\001\Delphi\Dbase3\dbase3.dproj=C:\Users\ftamas\Documents\001\Delphi\Dbase4\dbase4.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
